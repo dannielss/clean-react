@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Daniels887/clean-react/issues"
   },
-  "homepage": "https://github.com/Daniels887/clean-react#readme"
+  "homepage": "https://github.com/Daniels887/clean-react#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.6.0"
+  }
 }
